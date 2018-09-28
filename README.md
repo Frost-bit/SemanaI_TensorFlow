@@ -73,4 +73,4 @@ La aplicación móvil, a traves de la interaccion con el usuario, manda una imag
 ### Aplicación web
 La aplicacion web funciona como centro de informacion para el manejo de las imagenes tanto las procesadas como las imagenes tomadas desde el celular. Se compone principalmente de modulos .php con los cuales se otorga informacion a los dispositivos sobre cuando existe una nueva imagen disponible para procesar ademas de regular la comunicacion entre ellos.
 
-:shipit:
+:shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit: :shipit:
