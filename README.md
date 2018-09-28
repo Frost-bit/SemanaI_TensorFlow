@@ -43,7 +43,7 @@ Archivos que contienen la información de los xml. Estos se generan para poder u
 ### TFRecord
 Son dos archivos que se utilizan para el entranimiento del modelo en tensorflow.
 * train.record contiene las imagenes para el entrenamiento del modelo.
-* text.record contiene las imagenes de validación del modelo.
+* [text.record](https://drive.google.com/file/d/1WzFf3rQVvJAN7w56v4-TLPXVrn6g8htL/view?usp=sharing) contiene las imagenes de validación del modelo.
 
 ## Conversión de data
 Para poder entrenar el modelo es necesario transformar las imagenes .jpg en archivos TFRecord para poder entrenarlos con tensorflow. Para esto se utilizan los siguientes scripts.
